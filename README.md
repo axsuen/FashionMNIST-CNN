@@ -1,5 +1,5 @@
-# cs5242
-CS5242 Assignments of NUS
+# NUS Assignment
+Convolution Neural Network over Fashion_MNIST dataset
 
 ## requirements
 ### python version
